@@ -47,3 +47,6 @@ could handle file names with tabs).
       -t TARGETDIR, --targetdir TARGETDIR
                             the directory under which to place new files or
                             collect files for archiving
+## License
+
+Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
